@@ -1,10 +1,10 @@
-# 🌍 Monitoramento de Asteroides em Tempo Real (NASA)
+# Monitoramento de Asteroides em Tempo Real (NASA)
 
 Projeto desenvolvido em **Ruby** que consome a **API oficial da NASA (NeoWs)** para monitorar **asteroides próximos à Terra em tempo real**, exibindo informações como velocidade, distância e risco potencial.
 
 ---
 
-## 🚀 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto tem como objetivo:
 
@@ -18,7 +18,7 @@ Este projeto tem como objetivo:
 
 ---
 
-## 🛰️ O que o sistema faz?
+## O que o sistema faz?
 
 ✔️ Busca automaticamente os asteroides próximos da Terra  
 ✔️ Usa a data atual e o dia seguinte de forma dinâmica  
@@ -31,7 +31,7 @@ Este projeto tem como objetivo:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Ruby**
 - **Date** (requisições DATE)
@@ -41,7 +41,7 @@ Este projeto tem como objetivo:
 
 ---
 
-## 📦 Pré-requisitos
+## Pré-requisitos
 
 Antes de executar o projeto, você precisa ter:
 
