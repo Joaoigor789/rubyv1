@@ -34,6 +34,7 @@ Este projeto tem como objetivo:
 ## 🛠️ Tecnologias Utilizadas
 
 - **Ruby**
+- **Date** (requisições DATE)
 - **HTTParty** (requisições HTTP)
 - **JSON**
 - **API NASA NeoWs**
@@ -51,3 +52,5 @@ Instale a dependência necessária:
 
 ```bash
 gem install httparty
+gem install json
+gem install date
