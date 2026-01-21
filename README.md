@@ -56,6 +56,7 @@ https://api.nasa.gov/neo/rest/v1/feed
 
 ---
 
+## Saida do terminal de Exemplo
 
 ```bash 🌍 MONITORAMENTO EM TEMPO REAL - NASA
 ==================================================
