@@ -54,6 +54,18 @@ Este projeto tem como objetivo:
 
 https://api.nasa.gov/neo/rest/v1/feed
 
+
+---
+
+## Instalação
+
+# Clone o repositório ou salve o arquivo:
+
+```bash
+git clone https://github.com/Joaoigor789/rubyv1.git
+cd rubyv1 (se necessário)
+ruby api_monitor.rb
+```
 ---
 
 ## Saida do terminal de Exemplo
