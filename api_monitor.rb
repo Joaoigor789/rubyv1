@@ -33,9 +33,9 @@ def buscar_asteroides_tempo_real
                 distancia = a["close_approach_data"][0]["miss_distance"]["kilometers"].to_f.round(2)
 
                 puts " #{nome}"
-                puts " Perigoso? #{perigoso}"
-                puts " Velocidade? #{velocidade} km/h"
-                puts " Distância? #{distancia} km"
+                puts " Perigoso: #{perigoso}"
+                puts " Velocidade: #{velocidade} km/h"
+                puts " Distância: #{distancia} km"
                 puts " =================="
     
     else
